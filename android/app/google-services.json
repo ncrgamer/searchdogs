@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851797089566",
+    "firebase_url": "https://dogserach.firebaseio.com",
+    "project_id": "dogserach",
+    "storage_bucket": "dogserach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851797089566:android:4e68ca1d9d7d79e61cfd0f",
+        "android_client_info": {
+          "package_name": "com.example.searchdogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851797089566-7kvjai5srh7mtqp7aqidc4gkpvbh6kuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUJxT3QddWj7fo4CURiV7yluS5PAizHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851797089566-7kvjai5srh7mtqp7aqidc4gkpvbh6kuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
